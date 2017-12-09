@@ -1,0 +1,11 @@
+/nbproject/
+/build.xml
+/manifest.mf
+/.gitconfig
+.directory
+/Makefile
+/.dep.inc
+
+/.kdev4/
+/build/
+/dist/
